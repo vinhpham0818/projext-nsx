@@ -1,0 +1,51 @@
+name,use time,amount,price,description,brand_id,category_id
+Celery Root,5,33,$0.51,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at,2,5
+"Cheese - Manchego, Spanish",2,59,$4.76,ante vestibulum ante ipsum primis in faucibus orci luctus et,6,5
+Kaffir Lime Leaves,5,100,$6.94,fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,5,9
+"Pork - Back, Long Cut, Boneless",4,94,$8.22,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,4,8
+Chevere Logs,5,66,$0.20,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus,1,6
+Bread - Focaccia Quarter,2,14,$3.44,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis,4,7
+Tea - Earl Grey,4,10,$4.14,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi,1,8
+"Pork - Bacon, Sliced",5,78,$3.49,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec,3,8
+Everfresh Products,3,70,$7.24,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit,8,4
+Cookie Dough - Double,3,98,$1.33,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt,4,1
+Blueberries - Frozen,3,33,$3.90,eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut,8,10
+Cheese - Feta,2,52,$7.24,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,1,8
+Latex Rubber Gloves Size 9,2,74,$9.13,id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet,3,1
+Gherkin,3,43,$8.64,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes,7,3
+Bread - Multigrain,3,22,$2.72,accumsan felis ut at dolor quis odio consequat varius integer ac leo,2,7
+"Pork - Bacon,back Peameal",3,72,$7.04,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh,3,1
+Breakfast Quesadillas,3,52,$2.83,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam,6,10
+Lamb - Shoulder,3,91,$6.63,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat,9,6
+Squid - U - 10 Thailand,3,32,$9.46,sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis,1,10
+Propel Sport Drink,5,46,$7.88,ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam,7,9
+Kellogs Cereal In A Cup,4,33,$3.46,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede,5,10
+Wine - Redchard Merritt,5,29,$8.43,quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas,10,10
+Table Cloth - 53x69 Colour,3,7,$3.33,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,6,7
+Tea - Herbal Orange Spice,2,27,$1.54,est phasellus sit amet erat nulla tempus vivamus in felis,10,6
+"Chicken - White Meat, No Tender",3,88,$3.26,non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,8,4
+Tea - Lemon Scented,2,80,$4.12,porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in,8,6
+Bagel - Whole White Sesame,3,84,$1.55,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent,4,3
+Eel Fresh,4,31,$5.40,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui,6,2
+Soup - Campbells Chili,4,50,$3.25,morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus,5,7
+Longos - Greek Salad,4,67,$3.91,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec,2,5
+"Tart Shells - Sweet, 2",3,39,$0.87,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut,6,8
+Lemons,3,99,$8.57,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit,10,2
+"Ecolab - Orange Frc, Cleaner",2,72,$7.42,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis,5,3
+Barramundi,2,8,$6.42,cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel,2,8
+Crab - Meat,5,48,$2.86,pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam,3,5
+Peppercorns - Pink,5,85,$4.14,aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus,8,6
+Beans - Butter Lrg Lima,3,81,$2.81,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,1,5
+Pail For Lid 1537,2,56,$0.26,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci,5,9
+Pomello,3,25,$9.28,risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis,5,2
+Dawn Professionl Pot And Pan,3,73,$3.55,donec quis orci eget orci vehicula condimentum curabitur in libero ut,10,2
+Taro Leaves,5,81,$1.50,eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum,3,4
+Lid Tray - 12in Dome,3,46,$6.01,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor,9,4
+Clams - Canned,2,36,$3.38,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi,8,8
+Vinegar - Balsamic,4,42,$1.29,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus,2,7
+Tea - Black Currant,5,96,$7.62,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean,4,8
+"Beef - Ox Tongue, Pickled",4,96,$3.64,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est,7,4
+Muffin Mix - Banana Nut,3,58,$7.73,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,4,8
+Wine - Rioja Campo Viejo,5,37,$2.18,odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor,9,10
+Milkettes - 2%,2,26,$2.98,pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis,6,6
+French Kiss Vanilla,3,87,$2.02,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis,1,2
